@@ -1,0 +1,7 @@
+Emily 10
+Jane 290
+Tom 160
+Alice 130
+Jack 310
+Jack 340
+Lily 190
